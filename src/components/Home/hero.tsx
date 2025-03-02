@@ -14,7 +14,7 @@ export const Hero = () => {
     </button>
    </div>
    <div>
-    <Image width={400} height={400} src='/55.png' alt='hero' />
+    <Image width={400} height={400} src='/hero.png' alt='hero' />
    </div>
   </div>
  )
